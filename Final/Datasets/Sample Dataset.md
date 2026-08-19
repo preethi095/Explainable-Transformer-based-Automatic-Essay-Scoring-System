@@ -1,7 +1,8 @@
 # Dataset Description
 
 The dataset used in this project is an **essay-scoring dataset derived from the Automated Student Assessment Prize (ASAP) data**. It contains student essays together with human-assigned scores and additional metadata describing the essay, writing task, and student-related information.
-
+The dataset is publicly available and can be downloaded here. 
+https://github.com/scrosseye/ASAP_2.0
 The main training file used by the project is:
 
 ```text
